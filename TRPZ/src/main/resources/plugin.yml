@@ -1,0 +1,9 @@
+name: TRPZ
+version: '${version}'
+main: servercore.TRPZ
+api-version: 1.19
+authors: [ _k22_ ]
+description: TRPZ Plugin
+
+
+

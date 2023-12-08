@@ -1,0 +1,5 @@
+package messages;
+
+public enum MessageType {
+    QUIT_MESSAGE, JOIN_MESSAGE, CHAT_MESSAGE, WARN_MESSAGE, ADVANCEMENTS_MESSAGE, BROWSER_MESSAGE
+}
